@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a straightforward full-adder circuit but it is made directly out of the kmaps for both outputs.
 
 ## How to test
 
-Explain how to use your project
+Standard full-adder usage. But the implementation is different though.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None.
